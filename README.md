@@ -45,8 +45,8 @@
  ![image](https://github.com/user-attachments/assets/0e39aeeb-b330-4ece-8e68-36b87bc976b0)
 14. To check dlq records:
     go to  Pub/Sub topics->dlq_payments_data topic->in messages-> in step2 select the message from drop down-> click on PULL-> here all those records will be displayed where match doesn't happen.
-    
-    ![image](https://github.com/user-attachments/assets/5ce0e3fb-674c-46f0-9eee-b2260a0f7c98)
+
+[image](https://github.com/user-attachments/assets/5ce0e3fb-674c-46f0-9eee-b2260a0f7c98)
 
 
 
